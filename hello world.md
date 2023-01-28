@@ -4,7 +4,7 @@
 
 Hello, world! Привет, мир!
 
-[WE ARE HERE](https://github.com/wwweather)
+[WE ARE HERE](https://github.com/wwweather/git_education/blob/master/hello%20world.md)
 
 The *italics* characters of Salinger's works were made in the year of the publication of the exact edition. *To make some italics there are two asterisks in the beginning and the end of* the conversed symbols.
 
