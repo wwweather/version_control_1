@@ -2,7 +2,7 @@
 
 ## Выделение текста
 
-Hello, world! 
+Hello, world! Привет, мир!
 
 [WE ARE HERE](https://github.com/wwweather)
 
